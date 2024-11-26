@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siccoo&label=Profile%20views&color=0e75b6&style=flat" alt="Chilaka Michael Obinna" /> </p>
 
 <!--
 **siccoo/siccoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
