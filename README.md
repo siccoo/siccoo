@@ -16,9 +16,8 @@ I’m a **Software Engineer** heavy on the **Frontend/UI**, specializing in craf
 #### 📫 Let’s Connect!
 - 💼 [Portfolio](https://michaelchilaka.vercel.app/)
 - 💌 **Email**: <a href="mailto:chilakamichael001@gmail.com">chilakamichael001@gmail.com</a>
-- 🔗 <a href="https://linkedin.com/in/michael-chilaka" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a> | <a href="https://twitter.com/ObinnaChilaka" alt="Twitter">
-        <img src="https://img.shields.io/badge/-Twitter-3a424f?style=flat-square&logo=twitter" /></a>
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-chilaka/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-15202B?style=flat-square&logo=X&logoColor=white)](https://twitter.com/ObinnaChilaka)
 
 - **Fun Fact**: I enjoy learning new technologies and thrive in team-oriented environments! When I'm not coding, you'll find me reading or writing.
 
