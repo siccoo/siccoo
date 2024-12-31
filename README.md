@@ -7,6 +7,7 @@ I’m a **Software Engineer** heavy on the **Frontend/UI**, specializing in craf
 - **QA Engineering**: Writing automated tests and improving software quality
 - **Backend Development**: Diving into Node.js, Express, and databases
 - **DevOps & Deployment**: Learning about CI/CD pipelines, Docker, and cloud hosting platforms
+- **Technical Writing**
 
 #### 🛠️ Tools & Technologies
 <p align="center">
